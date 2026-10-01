@@ -1,0 +1,6 @@
+{
+  "name": "Mod Manage — Minecraft Java Mod Manager for Android",
+  "description": "Minecraft Java Edition mod manager for Android (PojavLauncher and Amethyst Launcher) with Modrinth and CurseForge browsing, dependency resolution, instance detection, and mod management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
